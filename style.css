@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+button {
+    font-size: 22px;
+    padding: 20px;
+    margin: 20px;
+    background: dodgerblue;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.lime {
+    background: lime;
+}
+
+.crimson {
+    background: crimson;
+}
